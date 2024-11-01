@@ -3,8 +3,10 @@ Passionate about creating solutions and uplifting others through code and collab
 
 # 🛠️ Projects
 - [oms.kangathi.com](https://oms.kangathi.com) : A comprehensive ERP with HR, Document and Entry management features ![Website](https://img.shields.io/website?url=https%3A%2F%2Foms.kangathi.com&label=status)
+- [iBank.kangathi.com](https://ibank.kangathi.com) : Personal finance management with 'Own Bank' concept. ![Website](https://img.shields.io/website?url=https%3A%2F%2Fibank.kangathi.com&label=status)
 - [liyelaa.com](https://liyelaa.com) : Thaana micro blogging platform. ![Website](https://img.shields.io/website?url=https%3A%2F%2Fliyelaa.test&label=status)
 - [kangathi.com](https://kangathi.com) : Landing page for Kangathi, an organisation striving to create, innovate and inspire. ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkangathi.com&label=status)
+- Mail Management System || SMS API
 
 
 # 💻 Tech Stack:
