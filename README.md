@@ -2,8 +2,9 @@
 Passionate about creating solutions and uplifting others through code and collaboration. Always exploring new ways to innovate and inspire.
 
 # 🛠️ Projects
-🔗 kangathi.com ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkangathi.com&label=status)</br>
-🔗 oms.kangathi.com ![Website](https://img.shields.io/website?url=https%3A%2F%2Foms.kangathi.com&label=status)
+- [oms.kangathi.com](https://oms.kangathi.com) : A comprehensive ERP with HR, Document and Entry management features ![Website](https://img.shields.io/website?url=https%3A%2F%2Foms.kangathi.com&label=status)
+- [liyelaa.com](https://liyelaa.com) : Thaana micro blogging platform. ![Website](https://img.shields.io/website?url=https%3A%2F%2Fliyelaa.test&label=status)
+- [kangathi.com](https://kangathi.com) : Landing page for Kangathi, an organisation striving to create, innovate and inspire. ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkangathi.com&label=status)
 
 
 # 💻 Tech Stack:
