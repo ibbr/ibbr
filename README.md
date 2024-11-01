@@ -1,6 +1,11 @@
 # 💫 About Me:
 Passionate about creating solutions and uplifting others through code and collaboration. Always exploring new ways to innovate and inspire.
 
+# 🛠️ Projects
+🔗 kangathi.com ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkangathi.com&label=status)</br>
+🔗 oms.kangathi.com ![Website](https://img.shields.io/website?url=https%3A%2F%2Foms.kangathi.com&label=status)
+
+
 # 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=%23777BB4&color=323330)
